@@ -1,3 +1,3 @@
-module github.com/DATA-DOG/godog
+module github.com/spikerlabs/godog
 
 go 1.12

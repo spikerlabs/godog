@@ -19,7 +19,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/DATA-DOG/godog/gherkin"
+	"github.com/spikerlabs/godog/gherkin"
 )
 
 func init() {

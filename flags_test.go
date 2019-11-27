@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/DATA-DOG/godog/colors"
+	"github.com/spikerlabs/godog/colors"
 )
 
 func TestFlagsShouldRandomizeAndGenerateSeed(t *testing.T) {

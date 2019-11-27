@@ -7,7 +7,7 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/DATA-DOG/godog/gherkin"
+	"github.com/spikerlabs/godog/gherkin"
 )
 
 func init() {

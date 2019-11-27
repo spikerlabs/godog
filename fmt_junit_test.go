@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/DATA-DOG/godog/colors"
-	"github.com/DATA-DOG/godog/gherkin"
+	"github.com/spikerlabs/godog/colors"
+	"github.com/spikerlabs/godog/gherkin"
 )
 
 var sampleGherkinFeature = `
