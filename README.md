@@ -4,6 +4,8 @@
 
 # Godog
 
+**Notice about spikerlabs fork: only latest golang version is supported.**
+
 <p align="center"><img src="/logo.png" alt="Godog logo" style="width:250px;" /></p>
 
 **The API is likely to change a few times before we reach 1.0.0**
